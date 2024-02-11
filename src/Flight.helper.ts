@@ -1,4 +1,4 @@
-import { AirlineFilterStore, AirlineFilters, IFlighDetailQuery, IFlightDetails } from "./Flight.interface";
+import { AirlineFilterStore, IFlighDetailQuery, IFlightDetails } from "./Flight.interface";
 
 export const extractCheapestFlight = (filterFlightDetails: IFlightDetails[]) => {
 
