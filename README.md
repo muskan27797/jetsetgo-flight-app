@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo Link
 
-Open [https://jetsetgo-flight.netlify.app/](JETSETGO) to view it in the browser.
+Open [https://jetsetgo-flight.netlify.app/](https://jetsetgo-flight.netlify.app/) to view it in the browser.
 
 ## Features
 
