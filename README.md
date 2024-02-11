@@ -15,7 +15,7 @@ Open [https://jetsetgo-flight.netlify.app/](JETSETGO) to view it in the browser.
    Users should be able to sort the results by price.\
    Test cases with mock data done.\
    Clean and organised code.\
-   Eye-catching UI design.\
+   Eye-catching UI design.
 
 
 ## Available Scripts
