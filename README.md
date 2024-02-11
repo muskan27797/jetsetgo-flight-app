@@ -8,14 +8,14 @@ Open [https://jetsetgo-flight.netlify.app/](JETSETGO) to view it in the browser.
 
 ## Features
 
-   ReactJS + TypeScript
-   User-friendly Travel Request screen for seamless booking.
-   Dynamic flight retrieval with filters and sorting options.
-   Users should be able to filter the results by airlines. 
-   Users should be able to sort the results by price.
-   Test cases with mock data done.
-   Clean and organised code.
-   Eye-catching UI design. 
+   ReactJS + TypeScript\
+   User-friendly Travel Request screen for seamless booking.\
+   Dynamic flight retrieval with filters and sorting options.\
+   Users should be able to filter the results by airlines.\
+   Users should be able to sort the results by price.\
+   Test cases with mock data done.\
+   Clean and organised code.\
+   Eye-catching UI design.\
 
 
 ## Available Scripts
