@@ -7,7 +7,7 @@ export const extractCheapestFlight = (filterFlightDetails: IFlightDetails[]) => 
     filterFlightDetails.forEach(item => {
         minValue = Math.min(minValue, item.fare)
     })
-    return minValue
+    return minValue === Infinity ? 0 : minValue 
 }
 
 export const extractAirlines = (flighData: IFlighDetailQuery | null) => {
