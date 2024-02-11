@@ -1,0 +1,49 @@
+
+.flight-name{
+    display: flex;
+    flex-direction: column;
+}
+
+.airline-selection{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 4px;
+}
+
+.airlinename-checkbox{
+  display:flex;
+  align-items:center;
+}
+
+.checkbox-label{
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.checkbox{
+    width: 18px;
+    height: 28px;
+    border: 1.5px solid rgb(100, 122, 151);
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    transition: all 0.2s ease 0s;
+    left: 0px;
+}
+
+
+
+.airline-name{
+    margin-left:6px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.airline-price{
+    font-size:12px;
+    font-weight:400;
+    color: rgb(113, 113, 113);
+}

@@ -1,0 +1,48 @@
+.sort-heading{
+    padding-top: 20px;
+    padding-bottom:5px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.sort-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sorting-basis{
+    background-color:white;
+    height:50px;
+    border-radius:8px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center;
+    font-size:16px;
+}
+
+.price-title{
+    text-transform: uppercase;
+    font-weight: 500;
+    align-items: center;
+}
+
+.cheapest-price{
+    color: rgb(113, 113, 113);
+    padding-top:4px
+}
+
+.image {
+    height: 14px;
+    width: 14px;
+}
+
+.up {
+    rotate: 180deg;
+}
+
+.down {
+    rotate: 180deg;
+}

@@ -1,0 +1,128 @@
+.show-details {
+    width: 895px;
+    float: right;
+    border: 1 px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.show-flights {
+    background-color: white;
+    min-height: 136px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.13) 0px 2px 4px 0px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    width: auto;
+    font-size: 12px;
+}
+
+.flight-name-time-details {
+    padding: 1rem 2rem 0 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.flight-name-details {
+    width: 62%;
+    display: flex;
+    flex-direction: column;
+}
+
+.flight-name {
+    font-size: 14px;
+}
+
+.from-to-detail {
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    display: flex;
+    align-items: flex-end;
+}
+
+.from-name-timing {
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+}
+
+.from-name {
+    color: rgb(176, 176, 176);
+}
+
+.from-country-code {
+    color: rgb(113, 113, 113);
+}
+
+.from-timing {
+    font-size: 1.4rem;
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.flight-duration-container {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+}
+
+.flight-duration {
+    font-size: 1.2rem;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.to-name-timing {
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+}
+
+.to-name {
+    color: rgb(176, 176, 176);
+}
+
+.to-timing {
+    font-size: 1.4rem;
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.from-to-price {
+    width: 38%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 34px;
+}
+
+.flight-price {
+    font-size: 1.4rem;
+    padding-top: 2px;
+    font-weight: 600;
+    width: 31%;
+}
+
+.book-flight {
+    width: 40%
+}
+
+.book-button {
+    width: 105px;
+    border-radius: 5px;
+    padding: 7px 0px;
+    background: rgb(34, 118, 227);
+    border: 1px solid rgb(34, 118, 227);
+    font-size: 12px;
+    appearance: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    cursor: pointer;
+}
+
+.layover-count {
+    padding: 0 2rem;
+    color: rgb(113, 113, 113);
+    font-size: 12px;
+    font-weight: 400
+}

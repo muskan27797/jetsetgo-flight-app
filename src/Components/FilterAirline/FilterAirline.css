@@ -1,0 +1,58 @@
+.filter-details{
+    width: 285px;
+    float: left;
+    background-color:white;
+    border-radius:8px;
+    position: sticky;
+    display:flex;
+    flex-direction:column;
+    height:500px;
+}
+
+.filter-heading{
+    padding: 20px 20px 0px;
+}
+
+.filter-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.flight-count{
+    margin-top: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(113, 113, 113);
+}
+
+.seperation{
+    border-bottom: 1px solid rgb(240, 240, 240);
+    padding-top: 10px;
+}
+
+.preferred-airlines{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 20px 0px;
+}
+
+.airlines-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom:10px;
+}
+
+
+.reset-button-enabled{
+    cursor: pointer;
+    color: rgb(34, 118, 227);
+}
+
+.reset-button-disabled{
+    color: rgb(142, 147, 171);
+}
